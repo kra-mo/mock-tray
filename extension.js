@@ -28,6 +28,7 @@ export default class MockTrayExtension extends Extension {
     }
 
     disable() {
+        sysTray.unmanage_screen();
         sysTray = null;
     }
 }

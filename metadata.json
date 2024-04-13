@@ -1,0 +1,9 @@
+{
+  "name": "Mock Tray",
+  "description": "Creates an invisible system tray (TopIcons) for apps (like MEGAsync) that won't run properly without one.",
+  "uuid": "mock-tray@kramo.page",
+  "shell-version": [
+    "45",
+    "46"
+  ]
+}

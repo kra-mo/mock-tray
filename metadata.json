@@ -1,15 +1,11 @@
 {
   "description": "Creates an invisible system tray (TopIcons) for apps (like MEGAsync) that won't run properly without one.",
   "name": "Mock Tray",
-  "shell-version": [
-    "45",
-    "46",
-    "47"
-  ],
+  "shell-version": ["45", "46", "47", "48"],
   "url": "https://github.com/kra-mo/mock-tray/",
   "uuid": "mock-tray@kramo.page",
   "donations": {
     "github": "kra-mo"
   },
-  "version": 3
+  "version": 4
 }

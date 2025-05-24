@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been archived in favor of [codeberg.org/kramo/mock-tray](https://codeberg.org/kramo/mock-tray).
+
 # Mock Tray
 
 A GNOME Shell extension that creates an invisible system tray (TopIcons) for apps (like MEGAsync) that won't run properly without one.
